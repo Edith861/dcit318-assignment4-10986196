@@ -1,0 +1,10 @@
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\bin\Debug\Login Screen.exe.config
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\bin\Debug\Login Screen.exe
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\bin\Debug\Login Screen.pdb
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.AssemblyReference.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login_Screen.Form1.resources
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login_Screen.Properties.Resources.resources
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.GenerateResource.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login Screen.exe
+C:\Users\Edith Agbo\Documents\PROGRAMMING\Windows foms\Login Screen\Login Screen\obj\Debug\Login Screen.pdb
