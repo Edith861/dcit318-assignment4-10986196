@@ -1,0 +1,16 @@
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\bin\Debug\net8.0-windows\AddressBook.exe
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\bin\Debug\net8.0-windows\AddressBook.deps.json
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\bin\Debug\net8.0-windows\AddressBook.runtimeconfig.json
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\bin\Debug\net8.0-windows\AddressBook.dll
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\bin\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.Form1.resources
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.csproj.GenerateResource.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfo.cs
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.dll
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\refint\AddressBook.dll
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\AddressBook.genruntimeconfig.cache
+C:\Users\Edith Agbo\Documents\PROGRAMMING\10986196_dcit318\AddressBook\AddressBook\obj\Debug\net8.0-windows\ref\AddressBook.dll
